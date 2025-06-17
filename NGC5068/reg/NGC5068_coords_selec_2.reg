@@ -1,0 +1,740 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+circle(574.57672,178.35918,4.46) # color=blue
+circle(675.1841,55.666,9.7491668) # color=blue
+circle(184.1164,17.6769,4.69) # color=blue
+circle(574.984,44.2983,2.844) # color=blue
+circle(408.3687,75.1064,3.837) # color=blue
+circle(659.3335,136.3989,2.44) # color=blue
+circle(755.1856,97.9078,3.16) # color=blue
+circle(819.0112,103.146,2.806) # color=blue
+circle(420.5184,90.9665,2.7253169) # color=blue
+circle(324.9515,143.3304,5.8037604) # color=blue
+circle(528.5955,143.14,2.768) # color=blue
+circle(854.2067,187.1242,5.6) # color=blue
+circle(258.176,158.0705,3.6793567) # color=blue
+circle(526.7169,168.0959,3.3742563) # color=blue
+circle(525.96324,818.21806,5.6765462) # color=blue
+circle(489.8305,810.2429,4.0701467) # color=blue
+circle(326.7588,771.8405,3.737) # color=blue
+circle(606.8896,755.7804,2.522) # color=blue
+circle(296.8739,741.964,4.5193448) # color=blue
+circle(624.60766,736.48289,3.6036364) # color=blue
+circle(334.65049,734.27153,4.448026) # color=blue
+circle(545.56464,690.78804,4.9048613) # color=blue
+circle(283.5176,728.3914,2.7412264) # color=blue
+circle(645.34088,720.89849,6.9123414) # color=blue
+circle(786.20257,720.7614,5.0980346) # color=blue
+circle(603.1261,701.3203,6.6078103) # color=blue
+circle(649.34785,707.05393,4.692365) # color=blue
+circle(467.6472,691.5839,2.899) # color=blue
+circle(764.86012,692.85029,4.4723585) # color=blue
+circle(300.8482,675.5706,5.923) # color=blue
+circle(712.93648,679.70221,4.5229656) # color=blue
+circle(713.5789,664.7919,5.1961372) # color=blue
+circle(489.6561,666.4888,2.056) # color=blue
+circle(509.0499,654.3687,1.735) # color=blue
+circle(161.44512,595.37559,4.1476694) # color=blue
+circle(574.9698,560.0582,2.635) # color=blue
+circle(539.6747,552.6361,2.758) # color=blue
+circle(184.81199,543.32117,7.0850788) # color=blue
+circle(570.5806,529.5207,5.317) # color=blue
+circle(707.5556,511.7153,5.434) # color=blue
+circle(76.6448,518.7058,3.062) # color=blue
+circle(788.8001,506.9125,6.6310987) # color=blue
+circle(108.4951,512.0952,4.651) # color=blue
+circle(849.4246,480.6029,3.412) # color=blue
+circle(865.5885,473.816,4.761) # color=blue
+circle(872.9882,465.5169,3.73) # color=blue
+circle(670.0026,479.0578,2.546) # color=blue
+circle(71.342,478.56846,4.1307272) # color=blue
+circle(25.00677,472.01902,12.437406) # color=blue
+circle(842.007,472.6954,2.209) # color=blue
+circle(733.2261,463.7985,4.775) # color=blue
+circle(59.362823,466.63293,5.5934949) # color=blue
+circle(147.957,458.0514,3.956) # color=blue
+circle(487.1188,437.2551,3.547) # color=blue
+circle(473.218,420.3712,2.602) # color=blue
+circle(800.4017,401.3917,5.103941) # color=blue
+circle(762.3101,393.5802,4.6966775) # color=blue
+circle(781.0564,392.7057,4.0431283) # color=blue
+circle(534.1718,325.4098,7.8111246) # color=blue
+circle(129.4069,296.694,5.7794864) # color=blue
+circle(905.7935,278.3964,3.692) # color=blue
+circle(702.6948,251.2695,2.696) # color=blue
+circle(387.1107,247.8124,3.148) # color=blue
+circle(262.7903,239.1098,3.812) # color=blue
+circle(274.38941,236.48394,3.753) # color=blue
+circle(541.3499,227.9956,3.7492192) # color=blue
+circle(399.1011,221.1379,3.057) # color=blue
+circle(414.7781,219.5202,4.6726247) # color=blue
+circle(602.27373,221.70047,2.334) # color=blue
+circle(633.152,851.6746,1.977) # color=blue
+circle(1097.6407,1113.3641,6.7313452) # color=blue
+circle(863.2531,1021.3462,2.817) # color=blue
+circle(603.18358,1075.4977,6.6323082) # color=blue
+circle(670.25611,1063.1224,5.2240927) # color=blue
+circle(1071.6912,1038.86,4.4229623) # color=blue
+circle(846.88934,1001.5361,4.0946586) # color=blue
+circle(789.7395,937.41482,5.6170493) # color=blue
+circle(740.905,979.7776,5.6850895) # color=blue
+circle(761.2283,960.1445,5.143353) # color=blue
+circle(990.9604,944.9082,4.9814155) # color=blue
+circle(647.72271,131.6258,2.6800741) # color=blue
+circle(918.00538,1054.1315,4.4599025) # color=blue
+circle(1064.6309,957.47966,8.7387128) # color=blue
+circle(808.95681,938.86016,4.2906215) # color=blue
+circle(966.4811,913.62305,5.9598213) # color=blue
+circle(431.46917,778.22278,7.9306942) # color=blue
+circle(434.1124,509.32992,2.4010949) # color=blue
+circle(329.22347,291.18471,10.69164) # color=blue
+circle(108.68187,351.27491,3.837078) # color=blue
+circle(482.78307,144.78328,3.8342484) # color=blue
+circle(230.16228,198.14179,2.5742425) # color=blue
+circle(389.8469,75.1088,3.8893321)
+circle(986.6986,49.924,2.7)
+circle(971.2775,56.5092,3.7706615)
+circle(643.9372,28.5124,3.857)
+circle(594.8268,25.8376,3.2147153)
+circle(705.2496,22.9285,2.404)
+circle(334.0711,17.0304,2.993)
+circle(237.4113,14.7955,5.128)
+circle(959.0549,15.9368,5.3468539)
+circle(616.7679,17.5497,2.679)
+circle(594.1961,50.9967,3.7371168)
+circle(370.5566,43.1349,3.23)
+circle(698.3193,44.6431,2.881)
+circle(970.0449,104.0099,6.7735704)
+circle(482.98071,216.89661,3.9907236)
+circle(376.3844,84.1134,3.884)
+circle(763.2287,87.5274,4.07)
+circle(558.596,126.6454,4.234)
+circle(593.8501,73.2181,3.7836842)
+circle(620.4631,75.9902,2.861)
+circle(394.7094,125.8616,8.0350411)
+circle(603.8365,131.2549,8.0916198)
+circle(939.0859,88.4133,3.198)
+circle(693.465,90.4183,2.364)
+circle(737.4093,177.727,4.538)
+circle(745.7562,116.7578,3.519)
+circle(698.3035,97.0152,2.31)
+circle(742.6705,140.8409,3.531)
+circle(935.3082,105.8788,2.768)
+circle(691.3411,105.5429,2.183)
+circle(946.3658,133.7488,4.754)
+circle(672.0508,150.4674,3.357)
+circle(513.7058,132.2625,3.734)
+circle(675.957,177.4764,3.001)
+circle(679.4484,142.3307,2.343)
+circle(847.8205,159.8241,7.9314323)
+circle(656.7667,167.7697,3.133)
+circle(690.192,191.4481,3.979)
+circle(206.95,184.134,5.2490578)
+circle(280.4829,175.3684,4.36)
+circle(884.3501,170.807,3.323)
+circle(508.69464,203.05048,5.3640534)
+circle(936.8725,205.6372,5.0420214)
+circle(452.77808,826.41885,13.82347)
+circle(281.21409,833.13673,3.3946231)
+circle(537.57393,771.51425,6.753)
+circle(334.4203,760.783,2.8645113)
+circle(459.5253,707.78826,5.8700711)
+circle(743.43055,702.97147,3.9358025)
+circle(481.6585,672.9246,3.42)
+circle(690.3873,671.4576,3.4528922)
+circle(742.30566,655.0102,3.9277221)
+circle(606.2968,637.8382,5.2186849)
+circle(333.43264,603.25701,11.162293)
+circle(515.8094,572.1517,3.049)
+circle(128.621,570.57316,7.4112411)
+circle(684.2822,541.6331,4.184)
+circle(859.23998,536.06452,5.7214774)
+circle(328.3905,532.0276,3.8716631)
+circle(507.9791,523.0363,3.489)
+circle(262.97206,508.11917,4.147)
+circle(822.268,507.726,3.824)
+circle(523.222,494.5328,6.08)
+circle(395.55283,504.62119,4.0623718)
+circle(467.9921,487.70824,2.9411238)
+circle(340.35892,500.45293,6.1270294)
+circle(85.2918,497.4595,3.8275553)
+circle(472.92025,467.85679,3.7609742)
+circle(494.2406,463.3878,2.957)
+circle(850.1606,461.4338,3.132)
+circle(445.4683,415.1127,3.473)
+circle(841.4769,424.9989,3.027)
+circle(683.7121,416.8132,7.3689448)
+circle(852.8652,411.2361,4.9787435)
+circle(407.0042,406.5372,4.5769539)
+circle(275.8271,404.3689,3.084)
+circle(426.7318,336.2372,6.0612671)
+circle(614.8896,374.4911,3.42)
+circle(404.324,361.895,11.555182)
+circle(803.4022,317.9248,4.7145962)
+circle(820.241,308.4894,5.4841825)
+circle(760.3166,256.5111,4.0879052)
+circle(620.149,252.0914,3.6387774)
+circle(399.0789,247.9414,4.438)
+circle(775.7212,1073.0653,3.516)
+circle(686.1249,236.1282,2.241777)
+circle(1005.4275,1124.662,2.383)
+circle(694.7187,225.5459,3.3431804)
+circle(333.11188,870.33872,3.8313536)
+circle(882.2317,1017.3812,1.987)
+circle(664.93103,851.26527,6.2798144)
+circle(392.9356,197.6451,2.619)
+circle(418.72493,889.86615,2.922)
+circle(709.88354,904.83811,6.6673723)
+circle(626.23866,888.17877,5.4152133)
+circle(1120.5726,1059.1512,4.643)
+circle(1152.3769,866.7825,4.1625986)
+circle(904.34703,1095.6988,6.2068709)
+circle(978.3461,1012.2218,2.441)
+circle(1022.4001,1084.7606,2.154)
+circle(730.99179,897.70972,3.8343209)
+circle(1036.5223,1014.845,3.705)
+circle(1027.5665,1043.3922,3.836)
+circle(1122.6444,1079.2144,3.517)
+circle(840.8487,1061.2073,2.946)
+circle(606.707,1064.2722,3.6227924)
+circle(843.8382,1043.9827,3.042)
+circle(854.34086,993.7743,4.7906653)
+circle(1145.3756,1032.9338,7.5681466)
+circle(810.16178,954.24293,8.905165)
+circle(1087.114,951.33933,4.6435162)
+circle(730.45603,906.69672,3.8698343)
+circle(996.89699,1063.5737,3.6371473)
+circle(485.39395,206.85541,3.9586985)
+circle(677.64661,90.82962,3.6075168)
+circle(1014.2466,876.08428,7.6077173)
+circle(816.7103,801.4665,4.9727344)
+circle(736.4289,699.09713,3.5272519)
+circle(41.171289,510.83181,20.579641)
+circle(512.72467,314.86951,3.5604009)
+circle(831.37303,123.57849,3.9038491)
+circle(836.66817,134.7764,6.686653)
+circle(767.90307,37.683282,4.9495998)
+circle(616.24913,110.71866,12.066243) # color=yellow
+circle(698.2226,67.0972,8.8978187) # color=yellow
+circle(530.168,31.9019,4.4565444) # color=yellow
+circle(354.6291,29.6895,4.022) # color=yellow
+circle(749.1324,30.6933,4.5191024) # color=yellow
+circle(202.286,25.407,3.367) # color=yellow
+circle(434.5745,74.5998,7.532) # color=yellow
+circle(447.3149,135.4426,5.564) # color=yellow
+circle(776.4849,106.146,3.367) # color=yellow
+circle(525.39275,191.7025,6.2090823) # color=yellow
+circle(727.4091,166.1749,3.993) # color=yellow
+circle(506.4607,163.6793,3.4199662) # color=yellow
+circle(574.8372,210.7645,5.2013503) # color=yellow
+circle(1159.3676,841.0133,4.8904485) # color=yellow
+circle(341.42803,843.3804,4.1609627) # color=yellow
+circle(714.6179,716.2654,2.43) # color=yellow
+circle(721.4284,694.1549,4.9478073) # color=yellow
+circle(428.26911,661.58506,5.0984673) # color=yellow
+circle(377.69091,621.2154,3.3619842) # color=yellow
+circle(819.8088,605.95768,5.8383031) # color=yellow
+circle(133.46685,585.81614,4.8918491) # color=yellow
+circle(411.7589,531.8598,4.015) # color=yellow
+circle(401.50071,515.37825,4.498) # color=yellow
+circle(213.31896,514.94161,3.5825207) # color=yellow
+circle(480.264,510.05719,3.46) # color=yellow
+circle(736.5087,526.0049,3.598) # color=yellow
+circle(156.106,452.3994,2.997) # color=yellow
+circle(873.81225,1139.4526,6.2335245) # color=yellow
+circle(481.9543,381.9254,11.148472) # color=yellow
+circle(430.0423,353.8538,4.1166905) # color=yellow
+circle(25.631733,330.25788,3.224) # color=yellow
+circle(397.4289,302.0192,4.9649071) # color=yellow
+circle(541.5308,243.9423,3.9366877) # color=yellow
+circle(872.7253,249.9323,3.192) # color=yellow
+circle(427.5176,231.5959,2.997) # color=yellow
+circle(286.4721,892.74,3.594) # color=yellow
+circle(323.01086,860.43238,7.1515555) # color=yellow
+circle(350.21972,880.24004,10.475695) # color=yellow
+circle(766.01908,1101.491,3.9839867) # color=yellow
+circle(825.3168,1045.0887,5.646) # color=yellow
+circle(723.39456,915.70503,5.1098664) # color=yellow
+circle(994.78418,1017.6489,2.9207589) # color=yellow
+circle(1001.7106,1054.8563,5.707) # color=yellow
+circle(865.21286,958.80256,4.3637141) # color=yellow
+circle(852.7843,1028.3059,2.867) # color=yellow
+circle(479.4106,199.68801,4.4846536) # color=yellow
+circle(449.70112,195.72711,3.8671055) # color=yellow
+circle(970.78541,1073.7006,4.1146058) # color=yellow
+circle(934.47895,1049.674,5.304161) # color=yellow
+circle(1087.0048,1066.9228,3.8761343) # color=yellow
+circle(860.06286,986.80713,2.8064532) # color=yellow
+circle(674.42239,1010.9867,3.3753085) # color=yellow
+circle(628.64405,758.15922,15.254502) # color=yellow
+circle(440.7745,465.16263,2.4296566) # color=yellow
+circle(439.65467,338.40951,6.5353696) # color=yellow
+circle(807.98461,179.15571,4.0590279) # color=yellow
+circle(802.38807,40.163282,13.153542) # color=yellow
+circle(613.63022,693.0987,0)
+circle(455.9752,58.2683,3.583) # color=magenta
+circle(639.1932,59.0867,4.3719796) # color=magenta
+circle(110.0445,28.6824,4.292) # color=magenta
+circle(548.0982,28.2208,3.8938911) # color=magenta
+circle(323.4895,14.9235,3.5624326) # color=magenta
+circle(274.7794,18.2781,4.082) # color=magenta
+circle(410.6222,12.4574,3.156) # color=magenta
+circle(425.3632,12.0295,2.06) # color=magenta
+circle(219.7444,28.9822,2.745) # color=magenta
+circle(719.4068,36.3053,3.34) # color=magenta
+circle(734.7738,56.6723,3.3159527) # color=magenta
+circle(357.3728,53.6645,3.376) # color=magenta
+circle(435.848,56.1136,3.0927702) # color=magenta
+circle(843.5995,69.8955,2.574) # color=magenta
+circle(364.8567,87.0142,2.7869529) # color=magenta
+circle(705.3018,136.3601,4.711) # color=magenta
+circle(436.6291,89.4605,2.416) # color=magenta
+circle(697.6116,116.897,3.664) # color=magenta
+circle(675.5305,131.3371,2.949) # color=magenta
+circle(756.9473,113.8277,2.6) # color=magenta
+circle(923.1606,163.4195,6.209) # color=magenta
+circle(900.1639,160.6337,3.298) # color=magenta
+circle(451.2229,181.5331,4.3565065) # color=magenta
+circle(873.5174,160.8434,5.241) # color=magenta
+circle(691.674,153.49,2.78) # color=magenta
+circle(417.9152,147.107,2.571) # color=magenta
+circle(776.4889,161.9801,5.6679857) # color=magenta
+circle(644.5023,160.4559,2.138) # color=magenta
+circle(541.1685,171.7924,3.5681707) # color=magenta
+circle(897.5597,169.7305,2.562) # color=magenta
+circle(639.5913,171.9337,1.886) # color=magenta
+circle(642.5162,188.953,2.214) # color=magenta
+circle(839.511,187.1664,2.553) # color=magenta
+circle(628.93478,285.97052,12.288966) # color=magenta
+circle(273.1938,869.0459,2.689) # color=magenta
+circle(512.6257,863.5099,4.58) # color=magenta
+circle(523.2477,861.1827,3.615) # color=magenta
+circle(738.7404,855.2836,5.2321148) # color=magenta
+circle(743.3339,843.0886,3.699) # color=magenta
+circle(291.26085,835.72227,5.3067311) # color=magenta
+circle(416.64423,840.61234,6.4375566) # color=magenta
+circle(624.8344,780.7022,5.289) # color=magenta
+circle(330.48137,800.28377,7.136914) # color=magenta
+circle(279.7121,812.1537,3.098) # color=magenta
+circle(828.1504,831.1963,3.1462984) # color=magenta
+circle(691.4038,788.2629,5.022) # color=magenta
+circle(344.2526,781.8573,3.29) # color=magenta
+circle(699.1011,777.275,3.311) # color=magenta
+circle(512.4777,750.8027,3.033) # color=magenta
+circle(677.0305,738.1842,6.3359148) # color=magenta
+circle(471.9457,700.6056,2.697) # color=magenta
+circle(515.65239,725.8404,6.2331387) # color=magenta
+circle(443.9784,685.1667,5.012) # color=magenta
+circle(814.44844,674.99147,5.5946797) # color=magenta
+circle(839.7407,655.7404,2.541) # color=magenta
+circle(485.2131,651.9456,1.651) # color=magenta
+circle(727.5109,644.689,3.303) # color=magenta
+circle(844.35,627.6747,3.333) # color=magenta
+circle(853.5322,640.5699,2.895) # color=magenta
+circle(863.23514,623.70037,3.974) # color=magenta
+circle(851.4169,615.00283,3.7148754) # color=magenta
+circle(552.6504,606.0891,2.369) # color=magenta
+circle(442.3069,584.5078,6.2600088) # color=magenta
+circle(859.15839,587.72921,3.496) # color=magenta
+circle(170.1707,564.47601,9.1122411) # color=magenta
+circle(824.57099,567.61049,3.9110078) # color=magenta
+circle(818.6513,548.3356,5.3586788) # color=magenta
+circle(517.1008,542.0635,3.4974688) # color=magenta
+circle(460.754,529.51977,9.7950099) # color=magenta
+circle(550.4909,532.8596,3.12) # color=magenta
+circle(79.7925,533.0545,2.939) # color=magenta
+circle(102.2574,518.5472,3.527) # color=magenta
+circle(631.4618,509.6486,5.254) # color=magenta
+circle(288.4158,486.5511,4.19) # color=magenta
+circle(402.20134,493.33188,2.9392376) # color=magenta
+circle(461.43796,499.94429,4.4957656) # color=magenta
+circle(194.90805,496.04365,3.1718114) # color=magenta
+circle(873.2473,491.3596,2.87) # color=magenta
+circle(384.7954,471.4818,3.393) # color=magenta
+circle(253.25518,480.7052,3.5211266) # color=magenta
+circle(557.6293,461.5746,2.838) # color=magenta
+circle(349.2365,450.2462,2.186) # color=magenta
+circle(471.5768,437.1099,3.595) # color=magenta
+circle(582.9867,437.0828,3.2178398) # color=magenta
+circle(313.1473,425.104,3.763) # color=magenta
+circle(531.8188,425.3754,3.5249003) # color=magenta
+circle(466.1336,404.3865,4.065692) # color=magenta
+circle(525.2164,385.4128,2.207) # color=magenta
+circle(416.2028,294.1497,4.2550083) # color=magenta
+circle(633.3685,375.9322,3.062) # color=magenta
+circle(65.22636,364.20106,4.972) # color=magenta
+circle(840.9865,347.0852,11.67542) # color=magenta
+circle(650.9227,353.0672,3.2) # color=magenta
+circle(639.2555,347.5127,3.6) # color=magenta
+circle(44.662757,335.11979,8.1601863) # color=magenta
+circle(630.5035,339.6166,2.9692885) # color=magenta
+circle(502.9086,309.3932,2.8183934) # color=magenta
+circle(735.30615,870.06181,5.3337971) # color=magenta
+circle(558.99,294.8289,4.15) # color=magenta
+circle(916.2383,292.293,2.525) # color=magenta
+circle(364.386,286.9427,4.834) # color=magenta
+circle(324.3896,269.8388,2.69) # color=magenta
+circle(589.8485,281.6459,2.657) # color=magenta
+circle(514.5339,276.198,3.67) # color=magenta
+circle(393.2224,271.9193,3.043) # color=magenta
+circle(825.9727,264.7664,2.883) # color=magenta
+circle(247.2169,258.3383,2.8252172) # color=magenta
+circle(597.21819,249.96449,3.6284323) # color=magenta
+circle(561.1624,240.2594,4.5911526) # color=magenta
+circle(876.5093,237.6151,4.124) # color=magenta
+circle(892.2481,230.4564,4.085) # color=magenta
+circle(566.4078,226.0511,3.216276) # color=magenta
+circle(1157.8759,901.42567,7.4628895) # color=magenta
+circle(420.4012,204.3168,3.153) # color=magenta
+circle(1056.256,1050.8688,5.0016515) # color=magenta
+circle(653.4103,205.6952,3.24) # color=magenta
+circle(885.6431,193.934,3.387) # color=magenta
+circle(970.8341,1123.5513,5.1679156) # color=magenta
+circle(1096.8326,1038.0021,4.596) # color=magenta
+circle(921.74212,1102.5081,4.409476) # color=magenta
+circle(1102.0162,1064.7292,4.2062578) # color=magenta
+circle(670.96408,909.04069,9.4623859) # color=magenta
+circle(808.6698,1088.8348,3.225) # color=magenta
+circle(1017.055,1006.3555,2.71) # color=magenta
+circle(1033.6599,1063.3427,1.946) # color=magenta
+circle(957.07288,1054.8595,5.9606548) # color=magenta
+circle(991.6129,1003.1724,2.433) # color=magenta
+circle(1154.4408,1050.1312,3.139) # color=magenta
+circle(808.1136,1060.7709,3.779) # color=magenta
+circle(766.7822,1021.2457,2.848) # color=magenta
+circle(772.5681,1009.387,3.391) # color=magenta
+circle(983.7749,1030.6024,1.954) # color=magenta
+circle(703.39712,990.06364,5.3622828) # color=magenta
+circle(800.48768,982.78296,5.6899682) # color=magenta
+circle(763.3599,1009.7906,2.694) # color=magenta
+circle(703.36585,1011.4257,4.8995559) # color=magenta
+circle(800.11513,922.51953,3.8853141) # color=magenta
+circle(740.781,959.6311,4.015) # color=magenta
+circle(912.43534,989.54601,4.6437975) # color=magenta
+circle(628.10729,164.61538,3.7732207) # color=magenta
+circle(604.30024,165.39047,4.3265541) # color=magenta
+circle(594.54826,172.6348,4.5807987) # color=magenta
+circle(978.7261,1081.5067,3.7407944) # color=magenta
+circle(999.75305,986.90388,3.8761343) # color=magenta
+circle(929.18307,954.96272,8.5720642) # color=magenta
+circle(588.60766,968.79929,4.8647001) # color=magenta
+circle(414.27156,684.94709,11.424387) # color=magenta
+circle(512.91588,645.12869,4.2588351) # color=magenta
+circle(236.42687,491.40382,9.197943) # color=magenta
+circle(697.63832,456.66902,16.677181) # color=magenta
+circle(419.55467,324.30951,3.5288891) # color=magenta
+circle(476.8331,225.21249,4.5177429) # color=magenta
+circle(486.68461,413.39571,6.4220752) # color=magenta
+circle(546.19261,407.89971,4.1593965) # color=magenta
+circle(522.00061,401.85171,4.2408476) # color=magenta
+circle(644.06307,104.10328,3.2312385) # color=magenta
+circle(627.02954,58.891092,2.9527425) # color=magenta
+circle(629.4545,155.9218,3.854) # color=red
+circle(463.1824,35.034,5.8342202) # color=red
+circle(562.6083,67.8196,5.6562515) # color=red
+circle(832.7601,46.3774,10.549151) # color=red
+circle(434.402,17.6476,3.564) # color=red
+circle(282.509,35.9999,3.89) # color=red
+circle(288.1461,29.089,3.8) # color=red
+circle(975.7899,17.925,4.1993943) # color=red
+circle(207.9683,13.3598,3.251) # color=red
+circle(159.5791,11.3117,2.073) # color=red
+circle(574.6638,29.28,2.9478604) # color=red
+circle(237.2172,33.0378,3.936) # color=red
+circle(430.9784,39.0612,3.005) # color=red
+circle(784.5428,53.3284,3.5849192) # color=red
+circle(482.15587,45.3515,2.9962815) # color=red
+circle(647.1004,82.7036,6.2508824) # color=red
+circle(384.2613,97.0495,7.6747071) # color=red
+circle(565.8409,92.2015,4.029208) # color=red
+circle(348.7773,96.1133,3.3655546) # color=red
+circle(428.3643,141.2368,3.143) # color=red
+circle(862.0767,114.20609,3.3219416) # color=red
+circle(374.2912,107.9715,2.081) # color=red
+circle(237.9693,127.4846,4.5945975) # color=red
+circle(966.8072,128.3782,3.098) # color=red
+circle(363.6229,143.0403,3.5041146) # color=red
+circle(261.4006,200.1096,4.488) # color=red
+circle(742.2695,206.3896,3.795) # color=red
+circle(618.05031,192.61985,7.197189) # color=red
+circle(952.3279,186.3743,8.1880963) # color=red
+circle(706.8883,161.1446,2.833) # color=red
+circle(291.7415,195.9662,5.2216091) # color=red
+circle(258.7205,217.806,3.8697316) # color=red
+circle(331.384,190.8404,4.152) # color=red
+circle(356.3707,168.2093,3.6437791) # color=red
+circle(379.2948,182.384,3.624) # color=red
+circle(452.8922,214.0952,3.535) # color=red
+circle(369.5203,183.2089,3.378) # color=red
+circle(312.9604,202.6292,3.098) # color=red
+circle(644.6389,221.2348,4.4693278) # color=red
+circle(608.20854,209.38879,6.5405082) # color=red
+circle(460.9858,253.8675,4.2231937) # color=red
+circle(843.1213,197.8552,2.093) # color=red
+circle(498.3909,871.3234,3.605) # color=red
+circle(593.6898,867.1025,2.082) # color=red
+circle(1101.4905,853.28255,5.0824793) # color=red
+circle(478.2767,846.1898,3.312) # color=red
+circle(709.4056,848.9036,2.072) # color=red
+circle(274.36845,843.32932,4.3142443) # color=red
+circle(580.95858,840.78134,3.3879591) # color=red
+circle(577.64212,828.09953,2.781826) # color=red
+circle(736.50669,810.41924,8.0296038) # color=red
+circle(338.313,829.5494,5.1486896) # color=red
+circle(780.705,819.5196,5.4745379) # color=red
+circle(631.58,789.5537,2.688) # color=red
+circle(360.98369,814.55633,6.7597621) # color=red
+circle(610.14705,814.38864,3.295) # color=red
+circle(538.88393,802.18298,6.321273) # color=red
+circle(546.87627,792.7773,3.153) # color=red
+circle(452.2361,780.5197,5.219416) # color=red
+circle(286.39809,782.39538,3.4525951) # color=red
+circle(631.33998,807.29598,12.293608) # color=red
+circle(545.1181,745.38467,3.4624904) # color=red
+circle(652.2969,770.9806,5.4110826) # color=red
+circle(802.92325,760.93713,6.0080579) # color=red
+circle(733.3447,736.0239,2.629) # color=red
+circle(552.64355,724.7219,5.7279744) # color=red
+circle(512.77406,698.53371,5.2761574) # color=red
+circle(521.89847,714.16659,4.818878) # color=red
+circle(299.3117,725.2619,3.220084) # color=red
+circle(443.4384,723.2175,2.467) # color=red
+circle(329.20034,714.53334,6.5979123) # color=red
+circle(453.78942,698.112,3.4506062) # color=red
+circle(704.8755,702.4508,2.185) # color=red
+circle(695.7996,696.616,2.27) # color=red
+circle(279.3691,687.1397,2.46) # color=red
+circle(318.5121,674.1592,3.4) # color=red
+circle(840.03087,677.91773,6.075845) # color=red
+circle(568.7977,669.4747,3.091) # color=red
+circle(467.87002,650.33492,4.085) # color=red
+circle(734.02386,662.08121,2.807) # color=red
+circle(675.89027,658.05879,2.8001287) # color=red
+circle(635.28239,647.98641,3.4523964) # color=red
+circle(641.7077,641.5557,3.4869438) # color=red
+circle(794.7637,647.4491,3.7868532) # color=red
+circle(776.79531,646.92714,3.057) # color=red
+circle(784.11885,634.50554,3.692) # color=red
+circle(814.8913,633.4198,4.884) # color=red
+circle(367.0383,638.2757,4.6626726) # color=red
+circle(421.99477,618.65135,10.882308) # color=red
+circle(792.313,629.3897,3.625496) # color=red
+circle(597.13385,620.93939,5.8376088) # color=red
+circle(495.07721,618.5939,3.5642505) # color=red
+circle(508.8145,606.948,8.187561) # color=red
+circle(490.83988,591.50978,6.4127075) # color=red
+circle(478.92818,586.60048,3.077) # color=red
+circle(589.63169,606.96426,5.8956763) # color=red
+circle(358.90589,601.72611,3.7791633) # color=red
+circle(677.34389,598.3105,5.1832599) # color=red
+circle(735.84691,587.61419,19.004858) # color=red
+circle(837.3712,591.6312,4.4388616) # color=red
+circle(530.265,587.3488,3.341) # color=red
+circle(263.56504,575.93595,3.9863049) # color=red
+circle(464.4481,571.5444,4.9933599) # color=red
+circle(166.3817,549.7933,4.2274119) # color=red
+circle(432.75251,566.77389,4.1026954) # color=red
+circle(780.20343,561.67403,6.9901144) # color=red
+circle(764.91813,545.63763,3.831) # color=red
+circle(199.2111,559.5768,6.8688367) # color=red
+circle(357.0719,560.1404,4.4234387) # color=red
+circle(464.9336,550.3178,3.988) # color=red
+circle(845.5968,559.2327,5.064447) # color=red
+circle(300.2402,552.41445,3.9811108) # color=red
+circle(143.20524,550.6578,4.3806166) # color=red
+circle(335.8215,549.05683,4.6978871) # color=red
+circle(153.50892,544.38458,3.8015733) # color=red
+circle(131.85423,526.55161,7.1045861) # color=red
+circle(156.6162,524.4312,6.9204105) # color=red
+circle(288.62009,522.4792,4.0450358) # color=red
+circle(188.1994,518.9489,4.4909752) # color=red
+circle(441.9201,513.1198,2.7753545) # color=red
+circle(449.6031,510.4133,3.3677174) # color=red
+circle(273.2791,504.7624,3.76) # color=red
+circle(170.91381,509.32349,7.0042566) # color=red
+circle(754.9103,501.7544,4.039) # color=red
+circle(798.6964,472.2631,3.383) # color=red
+circle(436.77592,455.39305,3.9982276) # color=red
+circle(413.886,459.1748,6.042369) # color=red
+circle(371.86219,488.79978,4.9353261) # color=red
+circle(746.768,487.847,6.0947776) # color=red
+circle(193.57968,482.84646,4.7053517) # color=red
+circle(489.55078,476.95142,3.5148625) # color=red
+circle(649.4539,469.2422,9.6436483) # color=red
+circle(167.91607,465.7052,11.412725) # color=red
+circle(250.0881,454.8696,3.904421) # color=red
+circle(594.5851,466.772,5.0739723) # color=red
+circle(307.6629,460.1042,4.9086729) # color=red
+circle(164.4971,446.0036,3.201) # color=red
+circle(740.4489,451.5859,2.353) # color=red
+circle(416.93926,443.98271,7.0626716) # color=red
+circle(511.0601,434.9891,8.7518402) # color=red
+circle(220.9466,441.3895,4.174) # color=red
+circle(322.3534,432.106,4.162) # color=red
+circle(345.0043,427.7543,4.6826709) # color=red
+circle(403.4521,421.315,7.8899119) # color=red
+circle(386.55173,414.92076,3.6009862) # color=red
+circle(361.2004,425.8104,3.6727826) # color=red
+circle(550.2994,380.3515,3.9129513) # color=red
+circle(664.6571,412.2292,4.6111874) # color=red
+circle(506.5208,396.1273,4.011) # color=red
+circle(370.17168,399.53994,6.5539823) # color=red
+circle(741.6112,405.8756,3.0742514) # color=red
+circle(715.0881,402.1613,2.802) # color=red
+circle(622.317,400.0476,3.6) # color=red
+circle(64.413369,390.19807,3.0585956) # color=red
+circle(477.6604,398.6309,2.6538432) # color=red
+circle(881.1407,389.653,3.1973017) # color=red
+circle(828.9263,385.7682,3.9215911) # color=red
+circle(662.1473,383.76,4.0405248) # color=red
+circle(418.5502,380.5894,2.46) # color=red
+circle(792.552,373.6209,10.411405) # color=red
+circle(573.734,367.0016,3.9520819) # color=red
+circle(350.7869,379.5404,3.0578536) # color=red
+circle(531.1522,370.41,9.9343893) # color=red
+circle(298.6923,371.1179,4.0601076) # color=red
+circle(153.97188,360.30077,5.5714296) # color=red
+circle(632.1972,361.4624,2.908) # color=red
+circle(522.3361,345.3439,5.9856304) # color=red
+circle(511.6173,338.349,3.2901775) # color=red
+circle(10.8751,346.2339,2.392) # color=red
+circle(150.9552,346.03119,3.9918033) # color=red
+circle(242.9582,338.5834,6.2389769) # color=red
+circle(646.5478,331.4322,3.453) # color=red
+circle(554.809,330.6327,3.9199639) # color=red
+circle(840.0693,327.592,5.9730459) # color=red
+circle(369.7351,326.1505,4.4631637) # color=red
+circle(93.9887,328.0735,5.2256131) # color=red
+circle(395.9565,320.2577,6.2997446) # color=red
+circle(13.6767,315.84429,4.1190217) # color=red
+circle(334.6159,307.2356,3.522) # color=red
+circle(590.9504,311.8051,3.1633201) # color=red
+circle(439.3787,304.8701,4.2823277) # color=red
+circle(88.301587,304.17029,4.0818137) # color=red
+circle(580.748,298.4596,3.9494323) # color=red
+circle(519.7408,298.1218,5.3338825) # color=red
+circle(20.1479,300.2322,2.116) # color=red
+circle(813.1869,289.735,4.6476498) # color=red
+circle(921.4068,280.406,1.619) # color=red
+circle(540.2033,284.9616,6.843) # color=red
+circle(307.66742,270.23333,10.250879) # color=red
+circle(404.2954,263.075,2.037) # color=red
+circle(424.1494,268.4167,2.661) # color=red
+circle(248.6291,270.4371,4.3179263) # color=red
+circle(746.3739,258.502,3.491) # color=red
+circle(187.7289,259.4847,5.016068) # color=red
+circle(919.5079,260.6017,2.867) # color=red
+circle(899.7807,257.6657,3.407) # color=red
+circle(348.8026,259.3177,4.699) # color=red
+circle(711.6999,253.175,4.4056608) # color=red
+circle(548.3538,254.9489,3.6339692) # color=red
+circle(371.0117,251.2719,5.1522637) # color=red
+circle(689.0109,251.5276,2.5215048) # color=red
+circle(186.192,244.2507,5.8098664) # color=red
+circle(290.157,245.7241,2.929) # color=red
+circle(761.1627,243.861,2.9429767) # color=red
+circle(849.7643,236.0405,4.169) # color=red
+circle(705.0743,236.4014,7.1900969) # color=red
+circle(243.5192,234.656,2.764) # color=red
+circle(231.0189,227.6753,6.267745) # color=red
+circle(984.2359,237.8127,2.564) # color=red
+circle(195.61031,228.00493,6.8953567) # color=red
+circle(795.6785,1037.353,2.334) # color=red
+circle(464.473,223.0622,2.877) # color=red
+circle(843.3768,1156.106,5.8874632) # color=red
+circle(163.1521,226.0095,5.5185453) # color=red
+circle(679.03567,858.49781,3.0614178) # color=red
+circle(340.4918,218.8044,2.687) # color=red
+circle(1113.8112,1017.4862,5.8506104) # color=red
+circle(963.0255,208.5252,3.329) # color=red
+circle(631.2568,1147.6246,7.2018486) # color=red
+circle(660.13847,837.60188,8.3376273) # color=red
+circle(605.43406,194.22378,3.4757431) # color=red
+circle(540.55477,884.41326,3.9815982) # color=red
+circle(675.97545,836.72819,4.514) # color=red
+circle(1133.5057,839.5794,6.6006506) # color=red
+circle(854.09153,1102.8836,4.396617) # color=red
+circle(790.2609,1057.4327,3.5071032) # color=red
+circle(306.72125,866.92435,7.1751651) # color=red
+circle(588.9985,887.3844,2.779) # color=red
+circle(670.86095,887.76619,6.5512092) # color=red
+circle(989.93189,1097.0064,9.6283606) # color=red
+circle(430.08554,877.30705,7.8851049) # color=red
+circle(637.80558,1106.8645,10.337792) # color=red
+circle(1127.4661,864.98551,8.1075552) # color=red
+circle(1131.0771,1065.7047,3.116) # color=red
+circle(624.69475,869.21053,4.8667902) # color=red
+circle(1134.6383,904.77826,11.684593) # color=red
+circle(710.83235,919.34314,4.9078026) # color=red
+circle(1106.8087,1088.9963,5.3701231) # color=red
+circle(720.5899,1011.7059,5.7880898) # color=red
+circle(1058.6203,1005.5417,3.3417763) # color=red
+circle(882.2971,1045.5378,2.114) # color=red
+circle(756.47476,1034.788,4.7854204) # color=red
+circle(812.924,1022.0392,2.791) # color=red
+circle(760.1797,1054.1683,3.485) # color=red
+circle(878.2692,1000.0303,3.042) # color=red
+circle(782.8707,1006.818,2.516) # color=red
+circle(1126.8876,1003.4324,4.8527545) # color=red
+circle(1073.9785,1008.7707,3.7587103) # color=red
+circle(873.739,1057.6381,2.126) # color=red
+circle(687.62945,997.17678,6.1199679) # color=red
+circle(810.7822,1035.311,3.017) # color=red
+circle(1092.1385,1025.6754,2.109) # color=red
+circle(672.23373,1019.9486,3.493496) # color=red
+circle(826.4358,1022.0798,2.528) # color=red
+circle(746.8846,1000.6839,4.601) # color=red
+circle(868.0482,991.8242,2.301) # color=red
+circle(1002.5074,1025.5966,2.596) # color=red
+circle(1049.1971,991.7229,3.5418127) # color=red
+circle(775.5696,1019.79,1.949) # color=red
+circle(864.92091,976.22548,3.7705037) # color=red
+circle(643.8272,979.6528,2.238) # color=red
+circle(1059.6086,972.80725,4.3007708) # color=red
+circle(883.14356,968.95065,5.905274) # color=red
+circle(1051.6127,960.4184,3.7041697) # color=red
+circle(978.7786,960.8087,2.799) # color=red
+circle(590.21064,914.79144,3.6174072) # color=red
+circle(1113.4791,954.36455,7.3478868) # color=red
+circle(696.96794,975.4508,7.6991786) # color=red
+circle(667.18422,950.72594,3.8698343) # color=red
+circle(1061.9036,1012.6525,3.469165) # color=red
+circle(1007.0747,1018.4901,2.99041) # color=red
+circle(897.2213,992.79927,4.2245709) # color=red
+circle(842.17323,1093.3946,4.2666278) # color=red
+circle(94.621185,307.62021,2.2132099) # color=red
+circle(552.59906,154.58476,4.0845284) # color=red
+circle(568.20224,170.7452,3.4474035) # color=red
+circle(574.59397,113.26607,6.5258986) # color=red
+circle(590.23375,922.97354,3.034009) # color=red
+circle(974.15011,1064.1449,3.4512172) # color=red
+circle(915.29209,1044.0536,4.3080776) # color=red
+circle(1152.6084,938.37468,11.811242) # color=red
+circle(869.87657,981.85355,2.5468047) # color=red
+circle(665.90759,942.3886,3.0228922) # color=red
+circle(685.68169,716.88033,13.743247) # color=red
+circle(633.52885,724.84346,3.0517605) # color=red
+circle(537.10553,756.21143,6.9265275) # color=red
+circle(455.16149,624.9728,3.1676129) # color=red
+circle(516.40441,635.05075,3.3621) # color=red
+circle(495.70372,565.68855,7.1494) # color=red
+circle(761.60865,614.36077,14.420178) # color=red
+circle(765.29098,573.66136,8.5458926) # color=red
+circle(755.40684,556.21876,8.3702637) # color=red
+circle(792.48852,536.09516,10.487963) # color=red
+circle(344.68294,859.28362,4.8701182) # color=red
+circle(144.1567,516.94681,2.495852) # color=red
+circle(427.63911,577.05037,3.026681) # color=red
+circle(747.73832,425.16902,14.741769) # color=red
+circle(751.3585,275.9537,3.4810977) # color=red
+circle(425.69499,415.25227,11.637073) # color=red
+circle(421.42967,303.43451,2.7800141) # color=red
+circle(482.89467,243.04451,3.2025624) # color=red
+circle(577.69861,378.27051,3.2139307) # color=red
+circle(560.91541,381.84891,3.137532) # color=red
+circle(784.00861,223.43571,3.0287655) # color=red
+circle(807.53347,152.47768,7.7118587) # color=red
+circle(747.70147,189.19768,3.4796822) # color=red
+circle(755.26147,187.68568,3.5478394) # color=red
+circle(430.22307,169.26328,13.632587) # color=red
